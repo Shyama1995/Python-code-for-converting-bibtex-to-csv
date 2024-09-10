@@ -9,3 +9,6 @@ Features:
 --Filters entries based on relevant keywords in the paper title.
 
 --Outputs a CSV file with only relevant research papers.
+
+Tip: It is recommended to keep the BibTeX file in the same directory where the Jupyter Notebook is located. This makes it easier to manage file paths and avoids file not found errors.
+
