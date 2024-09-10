@@ -12,3 +12,4 @@ Features:
 
 Tip: It is recommended to keep the BibTeX file in the same directory where the Jupyter Notebook is located. This makes it easier to manage file paths and avoids file not found errors.
 
+If you find this repository helpful or useful in any way, feel free to give it a ⭐ to show your support! :)
